@@ -1,0 +1,17 @@
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.csproj.AssemblyReference.cache
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.Properties.Resources.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.csproj.GenerateResource.cache
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.csproj.CoreCompileInputs.cache
+C:\Users\KQG\source\repos\KQS\KQS\bin\Debug\KQS.exe.config
+C:\Users\KQG\source\repos\KQS\KQS\bin\Debug\KQS.exe
+C:\Users\KQG\source\repos\KQS\KQS\bin\Debug\KQS.pdb
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.exe
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.pdb
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.SellsForm.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.DashboardForm.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\AccountingSystem.FinancialReportsForm.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\KQS.AddEditItemForm.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\AccountingSystem.ExpensesForm.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\AccountingSystem.InvoicesForm.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\AccountingSystem.CustomersForm.resources
+C:\Users\KQG\source\repos\KQS\KQS\obj\Debug\AccountingSystem.SuppliersForm.resources
