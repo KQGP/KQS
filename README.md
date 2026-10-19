@@ -47,6 +47,3 @@ KQS/
 
 ### Connection String
 Default: `Server=.;Database=KQS;Integrated Security=True;` (in each form). Update if needed.
-
-## 📄 License
-No license specified.
